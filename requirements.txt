@@ -1,0 +1,9 @@
+# Plant Disease Detection System
+# Tested & Verified on Python 3.11.9
+
+tensorflow==2.21.0
+streamlit==1.51.1
+numpy==2.4.6
+pillow
+pandas
+requests
